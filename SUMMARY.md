@@ -9,10 +9,3 @@
 * [Storybook](note/storybook/README.md)
   * [정적 파일 렌더 및 배포\(image, fonts, and assets\)](note/storybook/image-fonts-and-assets.md)
 
-## Error Note
-
-## IT Article Archive <a id="it-article-archive-1"></a>
-
-* [2021년](it-article-archive-1/it-article-archive/README.md)
-  * [2021년 7월](it-article-archive-1/it-article-archive/2021-7.md)
-
