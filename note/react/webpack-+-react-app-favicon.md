@@ -34,7 +34,7 @@ plugins: [
 ],
 ```
 
-* 적용한 후 빌드 한 HTML 파일의 모
+* 적용한 후 빌드 한 HTML 파일의 모습
 
 ![](../../.gitbook/assets/image%20%282%29.png)
 
