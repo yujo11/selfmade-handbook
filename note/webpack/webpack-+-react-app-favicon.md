@@ -1,4 +1,4 @@
-# Webpack favicon 추가하기
+# favicon 추가하기
 
 CRA로 프로젝트를 생성한 경우 `public` 폴더 밑에 있는 `favicon.ico` 파일만 바꿔주면 간단하게 favicon을 변경할 수 있다.
 
