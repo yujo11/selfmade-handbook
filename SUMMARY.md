@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Selfmade Handbook](README.md)
+* [Handbook](README.md)
 
 ## Note
 
