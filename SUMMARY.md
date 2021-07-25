@@ -5,7 +5,7 @@
 ## Note
 
 * [Webpack](note/webpack/README.md)
-  * [FaviconWebpackPulgin을 이용한 maifest 추가하기](note/webpack/untitled.md)
+  * [maifest 추가하기](note/webpack/untitled.md)
   * [favicon 추가하기](note/webpack/webpack-+-react-app-favicon.md)
 * [ESLint](note/2020-07-13-eslint/README.md)
   * [ESLint import/order 설정](note/2020-07-13-eslint/2021-7-13.md)

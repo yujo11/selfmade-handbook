@@ -1,4 +1,4 @@
-# FaviconWebpackPulgin을 이용한 maifest 추가하기
+# maifest 추가하기
 
 
 
