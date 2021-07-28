@@ -1,4 +1,4 @@
-# 정적 파일 렌더 및 배포\(image, fonts, and assets\)
+# 정적 파일 렌더 및 배포\(image, fonts, and assets\) 오류
 
 ## 문제 상황
 
