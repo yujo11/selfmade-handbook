@@ -2,7 +2,7 @@
 description: 자주 쓰는 정규식 모아두기
 ---
 
-# Regexp
+# 정규식
 
 ```javascript
 // 영어와 숫자를 반드시 포함, 8자 이상 20자 이하
