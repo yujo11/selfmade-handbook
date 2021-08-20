@@ -4,6 +4,11 @@
 
 ## Note
 
+* [axios](note/axios/README.md)
+  * [axios intercpetors 리다이렉션](note/axios/axios-intercpetors.md)
+* [CI/CD](note/ci-cd/README.md)
+  * [Github Actions를 통한 테스트 자동화](note/ci-cd/github-actions.md)
+  * [husky를 통한 Git hooks 활용](note/ci-cd/husky-git-hooks.md)
 * [정규 표현식](note/regexp.md)
 * [Webpack](note/webpack/README.md)
   * [중첩된 URL\(/reservation/edit\)에서 새로고침시 manifest를 불러오지 못 하는 오류](note/webpack/url-reservation-edit-manifest.md)
@@ -15,9 +20,4 @@
   * [정적 파일 렌더 및 배포\(image, fonts, and assets\) 오류](note/storybook/image-fonts-and-assets.md)
 * [React Router](note/react-router/README.md)
   * [BrowserRouter와 Router](note/react-router/browserrouter-router.md)
-
----
-
-* [CI/CD](ci-cd/README.md)
-  * [husky를 통한 Git hooks 활용](ci-cd/husky-git-hooks.md)
 
