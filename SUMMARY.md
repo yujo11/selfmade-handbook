@@ -5,6 +5,7 @@
 ## Note
 
 * [axios](note/axios/README.md)
+  * [axios interceptors Header에 Token 추가하기](note/axios/axios-interceptors-header-token.md)
   * [axios intercpetors 리다이렉션](note/axios/axios-intercpetors.md)
 * [CI/CD](note/ci-cd/README.md)
   * [Github Actions를 통한 테스트 자동화](note/ci-cd/github-actions.md)
