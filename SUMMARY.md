@@ -19,6 +19,8 @@
   * [ESLint import/order 설정](note/2020-07-13-eslint/2021-7-13.md)
 * [Storybook](note/storybook/README.md)
   * [정적 파일 렌더 및 배포\(image, fonts, and assets\) 오류](note/storybook/image-fonts-and-assets.md)
+* [성능 최적화](note/undefined/README.md)
+  * [Lighthouse의 6가지 평가 지표](note/undefined/lighthouse-6.md)
 * [React Router](note/react-router/README.md)
   * [BrowserRouter와 Router](note/react-router/browserrouter-router.md)
 
