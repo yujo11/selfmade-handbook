@@ -2,11 +2,11 @@
 
 
 
-#### 1. manifest.json 작성 후 링크 추가 <a id="1-manifestjson-&#xC791;&#xC131;-&#xD6C4;-&#xB9C1;&#xD06C;-&#xCD94;&#xAC00;"></a>
+#### 1. manifest.json 작성 후 링크 추가 <a href="1-manifestjson" id="1-manifestjson"></a>
 
 * public/manifest.json
 
-```text
+```
 {
   "short_name": "찜꽁",
   "name": "찜꽁",
@@ -20,7 +20,7 @@
 
 * webpack.config.js
 
-```text
+```
 plugins: [
   new HtmlWebpackPlugin({
     template: 'public/index.html',
@@ -32,13 +32,13 @@ plugins: [
 ],
 ```
 
-#### 2. `favicons` 설정 추가 <a id="2-code-classlanguage-textfaviconscode-&#xC124;&#xC815;-&#xCD94;&#xAC00;"></a>
+#### 2. `favicons` 설정 추가 <a href="2-code-classlanguage-textfaviconscode" id="2-code-classlanguage-textfaviconscode"></a>
 
 `FaviconsWebpackPlugin`은 [favicons](https://github.com/itgalaxy/favicons#usage)의 설정들을 사용할 수 있습니다.
 
 * webpack.config.js
 
-```text
+```
 plugins: [
   new HtmlWebpackPlugin({
     template: 'public/index.html',
@@ -56,4 +56,3 @@ plugins: [
   }),
 ],
 ```
-

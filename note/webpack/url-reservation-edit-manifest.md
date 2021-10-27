@@ -1,16 +1,16 @@
-# 중첩된 URL\(/reservation/edit\)에서 새로고침시 manifest를 불러오지 못 하는 오류
+# 중첩된 URL(/reservation/edit)에서 새로고침시 manifest를 불러오지 못 하는 오류
 
 
 
 ### 오류 상
 
-* 중첩 된 URL ex\) /reservation/edit 에서 새로고침 했을 때 manifest를 불러오지 못 한다.
+* 중첩 된 URL ex) /reservation/edit 에서 새로고침 했을 때 manifest를 불러오지 못 한다.
 
 
 
 * URL/guest/reservation 로 접속 후 새로고침 했을 때 발생하는 오류 메세
 
-![](../../.gitbook/assets/image%20%284%29.png)
+![](<../../.gitbook/assets/image (4).png>)
 
 
 
@@ -44,4 +44,3 @@
     ],
   };
 ```
-

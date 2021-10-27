@@ -2,7 +2,7 @@
 
 
 
-```text
+```
 name: CI
 
 on: [pull_request]
@@ -42,4 +42,3 @@ jobs:
 * frontend 코드가 변경되지 않았을 때는 아래와 같이 실행되지 않음
 
 ![](https://user-images.githubusercontent.com/61097373/127734331-9a26c3cd-708d-434e-ae89-56aae3d99a34.png)
-

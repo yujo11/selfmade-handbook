@@ -18,5 +18,3 @@ reg2.test('한글'); true
 reg2.test('@포함되지 않은 특수문자'); false
 ```
 
-
-

@@ -31,8 +31,6 @@ api.interceptors.request.use(
 );
 ```
 
-1. 토큰을 가져온다. 
+1. 토큰을 가져온다.&#x20;
 2. 토큰이 있는 경우 request를 보내기 전 config.headers에 토큰을 추가해서 실어 보낸다.
-
-
 

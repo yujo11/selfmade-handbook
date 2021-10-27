@@ -5,7 +5,7 @@
 #### Git hooks를 적용한 이유
 
 1. 팀원들과 협업을 하면서 공통의 formater, linter의 룰을 설정했으나 종종 룰이 지켜지지 않은 채 PR을 생성하는 경우가 있음.
-2. PR하기 전 직접 명령어를 입력해 전체 파일을 검사하는 방법도 있으나 귀찮은건? -&gt; 기계에게 맡기자
+2. PR하기 전 직접 명령어를 입력해 전체 파일을 검사하는 방법도 있으나 귀찮은건? -> 기계에게 맡기자
 
 #### huksy를 적용한 이유
 
@@ -25,5 +25,4 @@
 
 다행히 husky 공식 홈페이지에 Custom directory에 설정하는 방법이 적혀 있어서 문제를 간단히 해결할 수 있었다.
 
-* [https://typicode.github.io/husky/\#/?id=custom-directory](https://typicode.github.io/husky/#/?id=custom-directory)
-
+* [https://typicode.github.io/husky/#/?id=custom-directory](https://typicode.github.io/husky/#/?id=custom-directory)
