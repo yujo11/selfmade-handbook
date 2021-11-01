@@ -4,6 +4,8 @@
 
 ## Note
 
+* [Jest](note/jest/README.md)
+  * [Timezone 고정하기](note/jest/timezone.md)
 * [axios](note/axios/README.md)
   * [axios interceptors Header에 Token 추가하기](note/axios/axios-interceptors-header-token.md)
   * [axios intercpetors 리다이렉션](note/axios/axios-intercpetors.md)
